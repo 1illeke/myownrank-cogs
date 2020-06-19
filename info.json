@@ -1,0 +1,17 @@
+  
+{
+    "author": [
+        "lilleke"
+    ],
+    "install_msg": "Thanks for installing!\nPease contact me on discord if any problems arise (lilleke%5950)",
+    "name": "mor-cogs",
+    "short": "Cogs for myownrank discord",
+    "description": "Utilities, community tools, and goofy commands, all in one place.",
+    "tags": [
+        "utility",
+        "moderation",
+        "community",
+        "toy",
+        "fun"
+    ]
+}
