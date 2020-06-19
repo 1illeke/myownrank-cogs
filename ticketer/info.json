@@ -1,0 +1,9 @@
+{
+  "author": [
+    "lilleke"
+  ],
+  "description": "Advanced ticket system with improved management functionality. If something goes wrong do [p]contact",
+  "hidden": false,
+  "install_msg": "``[p]help Ticketer`` will help you start it.",
+  "short": "A ticket system."
+}

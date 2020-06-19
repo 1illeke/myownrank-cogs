@@ -1,0 +1,17 @@
+{
+    "author": [
+        "tmerc"
+    ],
+    "install_msg": "Welcome messages, if something goes wrong do [p]contact",
+    "name": "Welcome",
+    "short": "Announces membership events.",
+    "description": "Announces members joining, leaving, getting banned, and getting unbanned, in a customizable text channel and with customizable messages.",
+    "requirements": [],
+    "tags": [
+        "welcome",
+        "greetings",
+        "leave",
+        "ban",
+        "utility"
+    ]
+}

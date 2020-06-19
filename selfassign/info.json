@@ -1,0 +1,18 @@
+{
+    "author": [
+        "luna"
+    ],
+    "description": "Allows users to self-assign chosen roles without the help of a moderator",
+    "disabled": false,
+    "hidden": false,
+    "install_msg": "[p]help selfassign",
+    "min_python_version": [
+        3,
+        7,
+        0
+    ],
+    "name": "selfassign",
+    "requirements": [],
+    "short": "Allows users to self-assign roles",
+    "tags": []
+}
